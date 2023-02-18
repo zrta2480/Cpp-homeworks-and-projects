@@ -1,0 +1,13 @@
+// Add Product Reccursion and check for validity of input, also affirmation of the product being added
+// show all products press enter to return to main menu
+// Record Sales of product auto update
+// remove cout of receiving orders
+// Handle case for when a product is deleted and then recieved again it should be made known to the user and also make it easier for them to setup the product again
+// Add functionality to allow the user to change the product details
+
+// PROJECT TITLE
+// PROJECT PROBLEM
+//  PROJECT IN DEPTH SOLUTION
+
+
+// add reorder point alarm on sales

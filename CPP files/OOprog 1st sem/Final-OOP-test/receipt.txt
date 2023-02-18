@@ -1,0 +1,29 @@
+		    MCJOLLIBEE
+	       Lipa City, Batangas
+		     Receipt
+
+__________________________________________________
+
+	Receipt Number: 0126621
+	Cashier: Vergil
+	Date: Thu Jan 07 14:22:22 2021
+
+__________________________________________________
+
+Qty  Item                          Cost                          
+
+2    Burger, Fries, Soda           200.00                        
+3    Burger stake, Rice, Soda      390.00                        
+2    Upsized Drinks                60.00                         
+2    Upsized Fries                 80.00                         
+23   Ala Carte Fries               690.00                        
+12   Ala Carte Drinks              240.00                        
+__________________________________________________
+
+Total:                             1660.00                       
+Payment:                           2000.00                       
+Change:                            340.00                        
+
+
+	Thank You Please Come Again
+__________________________________________________

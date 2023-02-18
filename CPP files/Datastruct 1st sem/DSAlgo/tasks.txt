@@ -1,0 +1,14 @@
+BST Structure Zeth And Dylan - Done
+Intake Dylan -done
+Update BST Dylan -done
+Delete BST Dylan -done
+Show All Prudcts Dylan - Done
+Delete Product Zeth
+Add Product	Zeth
+Add Sales	Zeth
+Order Product	Dylan
+Recieve Product Zeth
+	Out Of Stock Products Zeth 
+Things that make the code pretty - Zeth
+Things that make the program pretty - Dylan
+	

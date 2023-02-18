@@ -1,0 +1,14 @@
+		    MCJOLLIBEE
+	       Lipa City, Batangas
+		 Inventory Report
+	     Thu Jan 07 14:24:42 2021
+
+
+Items               Current Stocks Total Item Sold               
+Order 1             100            2                             
+Order 2             100            0                             
+Order 3             100            0                             
+Order 4             100            3                             
+Order 5             100            0                             
+
+Overall Sold Items: 5

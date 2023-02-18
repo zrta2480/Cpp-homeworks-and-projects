@@ -1,0 +1,6 @@
+Product ID     Product Description           Suplier Name   Price     Quantitiy      ROP            Category       Unit Of Measurment
+573            Stick-O                       Jack`And`Jill  67        100            5              Snacks         Cans           
+123            gun                           bob            100       2              5              firearm        calibre        
+532            Ginebra`Miguel                Ginebra        140       500            5              Liquor         Botlle         
+682            Piatos                        Jack`And`Jill  15        200            5              Snacks         Pack           
+2312           Bear`Brand`1.8`Grams          Alaska         5000      199            15             Milk           Box            

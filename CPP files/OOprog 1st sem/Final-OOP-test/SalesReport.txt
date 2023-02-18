@@ -1,0 +1,14 @@
+		    MCJOLLIBEE
+	       Lipa City, Batangas
+		   Sales Report
+	     Thu Jan 07 14:24:36 2021
+
+
+Items               Sales          Total Sale per item           
+Order 1             2              200.00                        
+Order 2             0              0.00                          
+Order 3             0              0.00                          
+Order 4             3              390.00                        
+Order 5             0              0.00                          
+
+Total Sales: 590.00

@@ -1,0 +1,17 @@
+Product ID     Product Description           Suplier Name   Price     Quantitiy      ROP            Category       Unit Of Measurment
+2222           Ruler                         N.`Bookstore   21        500            5              Stationary     Sticks         
+573            Stick-O                       Jack`And`Jill  67        200            5              Snacks         Cans           
+532            Ginebra`Miguel                Ginebra        140       4              5              Liquor         Botlle         
+231            Notebook                      N`Bookstore    65        100            5              Stationary     unit           
+567            Calendar                      Home`Supply    67.2      500            5              Office`Supply  units          
+1122           Ballpens                      O&S            65.5      500            5              Stationary     Packs          
+682            Piatos                        Jack`And`Jill  15        200            5              Snacks         Pack           
+1309           Wrist`Watch                   G-Tech         550.9     100            15             Accessory      unit           
+5978           Paint                         Boysen         250       300            10             Building       Can            
+2323           Scissors                      N.`Bookstore   19.99     500            5              Stationary     units          
+2312           Bear`Brand`1.8`Grams          Alaska         5000      199            15             Milk           Box            
+2341           pppppppppppppp                pppppppppppppp 1e+016    400            10             Electronic     pppppppppppppp 
+6688           Toothbrush                    Colgate        15        1000           5              Hygiene        units          
+6321           Bond`Paper                    N.`Bookstore   150       200            5              Office`Supply  Boxes          
+8990           USB                           Gadget`R`Us    120       500            5              Electronic     Sticks         
+9999           test                          test           1e+006    999990         15             test           unit           

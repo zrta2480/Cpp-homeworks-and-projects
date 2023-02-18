@@ -1,0 +1,3 @@
+Product ID     Product Description           Order Quantity                
+123            gun                           3                             calibre
+2312           Bear Brand 1.8 Grams          1                             Box

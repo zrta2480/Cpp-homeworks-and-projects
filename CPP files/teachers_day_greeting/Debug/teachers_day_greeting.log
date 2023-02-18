@@ -1,0 +1,3 @@
+﻿  teachers_day_greeting.cpp
+C:\Users\zetha\OneDrive\Documents\CPP files\teachers_day_greeting\teachers_day_greeting.cpp(25,7): warning C4101: 'Window': unreferenced local variable
+  teachers_day_greeting.vcxproj -> C:\Users\zetha\OneDrive\Documents\CPP files\teachers_day_greeting\Debug\teachers_day_greeting.exe

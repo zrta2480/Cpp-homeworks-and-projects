@@ -1,0 +1,6 @@
+Product ID     Product Description           Suplier Name   Price     Quantitiy      ROP            Category       Unit Of Measurment
+2312           Bear`Brand`1.8`Grams          Alaska         5000      200            15             Milk           Box            
+531            Ginebra`Miguelito             Ginebra        50        1000           5              Liquor         bottle         
+532            Ginebra`Miguel                Ginebra        140       500            5              Liquor         Botlle         
+682            Piatos                        Jack`And`Jill  15        200            5              Snacks         Pack           
+573            Stick-O                       Jack`And`Jill  67        200            5              Snacks         Cans           

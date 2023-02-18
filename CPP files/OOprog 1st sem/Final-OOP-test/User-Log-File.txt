@@ -1,0 +1,22 @@
+		    MCJOLLIBEE
+	       Lipa City, Batangas
+		     User Log
+
+Cashier: Vergil		Sun Jan 03 18:27:59 2021
+     
+Cashier: Vergil		Sun Jan 03 18:28:10 2021
+     
+Cashier: Vergil		Sun Jan 03 18:28:24 2021
+     
+Cashier: Vergil		Sun Jan 03 18:28:40 2021
+     
+Cashier: Vergil		Sun Jan 03 18:28:51 2021
+     
+Manager: Dante		Tue Jan 05 14:42:40 2021
+     
+Cashier: Vergil		Thu Jan 07 14:21:15 2021
+     
+Cashier: Vergil		Thu Jan 07 14:22:22 2021
+     
+Manager: Dante		Thu Jan 07 14:22:45 2021
+     

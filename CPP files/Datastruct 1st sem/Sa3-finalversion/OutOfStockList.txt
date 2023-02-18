@@ -1,0 +1,2 @@
+Product ID     Product Description           Suplier Name   Price     Quantitiy      ROP            Category       Unit Of Measurment
+532            Ginebra`Miguel                Ginebra        140       3              5              Liquor         Botlle         
